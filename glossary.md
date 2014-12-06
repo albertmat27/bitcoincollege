@@ -1,7 +1,5 @@
 #Bitcoin Glossary
 
-###By Alberto Mata
-
 **Address**
 
 **Altcoin**
