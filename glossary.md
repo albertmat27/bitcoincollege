@@ -90,6 +90,18 @@ See Sentiment Index.
 
 **Cryptography**
 
+**DAC**
+
+See Decentralized Autonomous Corporation.
+
+**DApp**
+
+See Decentralized Application.
+
+**Decentralized Autonomous Corporation**
+
+**Decentralized Application**
+
 **Depth**
 
 **Deterministic**
